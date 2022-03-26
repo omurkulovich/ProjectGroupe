@@ -1,0 +1,24 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35px;
+  margin: 10px;
+  font-size: large;
+  background: none;
+  color: white;
+}
+.edit {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(https://www.teahub.io/photos/full/287-2879198_photo-wallpaper-sneakers-converse-all-star-chuck-converse.jpg);
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,22 @@
+.add-product {
+    border: 1px solid gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    width: 400px;
+    background-color: aliceblue;
+  }
+  
+  .add-main {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    width: 600px;
+    height: 400px;
+  }
+  .photo {
+    height: 100vh;
+    width: 100%;
+  }

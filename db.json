@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "product": "Snekaers Convers",
+      "price": "2500$",
+      "image": "https://previews.123rf.com/images/nito500/nito5001106/nito500110600052/9729194-une-paire-de-chaussures-de-sport-sur-un-fond-blanc.jpg",
+      "id": 1
+    },
+    {
+      "product": "Sneakers Yellow",
+      "price": "500$",
+      "image": "https://media.gettyimages.com/photos/canvas-shoes-picture-id171224469?s=612x612",
+      "id": 2
+    },
+    {
+      "product": "Sneakers White",
+      "price": "1000$",
+      "image": "https://media.istockphoto.com/photos/pastel-sneakers-on-white-background-copy-of-space-front-view-picture-id1288949209?b=1&k=20&m=1288949209&s=170667a&w=0&h=z5Z3tvOI_DwyxyS7Bgqqto_LaVwYh32N_3BQzW9EfWc=",
+      "id": 3
+    },
+    {
+      "product": "Sneakers ",
+      "price": "500$",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUJOdAlGHWHaCM2IsdGSDvAt8uM59BT3ns1Q&usqp=CAU",
+      "id": 5
+    },
+    {
+      "product": "Sneakers",
+      "price": "3000$",
+      "image": "https://images.unsplash.com/photo-1603787081207-362bcef7c144?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c25lYWtlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 6
+    },
+    {
+      "product": "Sneakers",
+      "price": "1000$",
+      "image": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2021/12/Adidas-Tech-Boost_JPG.jpg?resize=2400%2C2400&ssl=1",
+      "id": 7
+    },
+    {
+      "product": "Sneakers",
+      "price": "1000$",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6eba4403e10a46a39268ad740146c5e0_9366/Forum_Home_Alone_Shoes_White_GZ4378_01_standard.jpg",
+      "id": 8
+    },
+    {
+      "product": "Sneakers",
+      "price": "300$",
+      "image": "https://cdn.flightclub.com/750/TEMPLATE/279430/1.jpg",
+      "id": 9
+    },
+    {
+      "product": "Sneakers",
+      "price": "100$",
+      "image": "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/GZ0717_1_2bc2bbbc-fb4f-439f-81ca-68ce78037c87_1024x1024.jpg?v=1646658392",
+      "id": 10
+    }
+  ]
+}
